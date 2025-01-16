@@ -1,4 +1,4 @@
 streamlit
-yt-dlp
 requests
+yt-dlp
 pillow
